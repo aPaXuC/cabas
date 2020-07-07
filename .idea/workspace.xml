@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b80e01d3-ee34-4c95-9d78-d49383a26643" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alerter/src/main/java/com/springexercise/alerter/service/AreaAlertServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/alerter/src/main/java/com/springexercise/alerter/service/AreaAlertServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alerter/src/main/java/com/springexercise/alerter/service/CityAlertHandlerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/alerter/src/main/java/com/springexercise/alerter/service/CityAlertHandlerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notificator/src/main/java/com/springexercise/notificator/configuration/DataSourceProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/notificator/src/main/java/com/springexercise/notificator/configuration/DataSourceProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notificator/src/main/java/com/springexercise/notificator/service/MessageBuilderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/notificator/src/main/java/com/springexercise/notificator/service/MessageBuilderImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notificator/src/main/java/com/springexercise/notificator/service/MessageLogUpdaterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/notificator/src/main/java/com/springexercise/notificator/service/MessageLogUpdaterImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eGhg7NPymoDokomCixbf4bvXua" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/notificator/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springexercise.common.configuration" />
+      <recent name="com.springexercise.common.model" />
+      <recent name="com.springexercise.common.repository" />
+      <recent name="com.springexercise.alerter.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\cabas\notificator\src\main\resources" />
+      <recent name="E:\GitHub\cabas\common\src\main\resources" />
+      <recent name="E:\GitHub\cabas\notificator\src\main\java\com\springexercise\notificator\controller" />
+      <recent name="E:\GitHub\cabas\notificator\src\main\java\com\springexercise\notificator\configuration" />
+      <recent name="E:\GitHub\cabas\alerter\src\main\java\com\springexercise\alerter\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AlerterApplication">
+    <configuration name="AlerterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="alerter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springexercise.alerter.AlerterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="notificator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springexercise.notificator.NotificatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AlerterApplication" />
+      <item itemvalue="Spring Boot.NotificatorApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b80e01d3-ee34-4c95-9d78-d49383a26643" name="Default Changelist" comment="" />
+      <created>1593953944428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593953944428</updated>
+      <workItem from="1593953946330" duration="8000" />
+      <workItem from="1593953961888" duration="217000" />
+      <workItem from="1593954193573" duration="1026000" />
+      <workItem from="1593955235523" duration="2997000" />
+      <workItem from="1593958248604" duration="72000" />
+      <workItem from="1593958325669" duration="24905000" />
+      <workItem from="1594048925480" duration="8910000" />
+      <workItem from="1594118570679" duration="23856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1593958292775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593958292775" />
+    <state x="349" y="361" key="#SQL_Dialects" timestamp="1593981375507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="361" key="#SQL_Dialects/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593981375507" />
+    <state x="414" y="174" width="1100" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594139738326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1100" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594139738326" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1594137248004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594137248004" />
+    <state x="693" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594139661453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594139661453" />
+    <state x="585" y="33" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594136466306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="33" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594136466306" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593958880630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593958880630" />
+    <state width="1619" height="272" key="GridCell.Tab.0.bottom" timestamp="1594146528849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594146528849" />
+    <state width="1619" height="272" key="GridCell.Tab.0.center" timestamp="1594146528849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594146528849" />
+    <state width="1619" height="272" key="GridCell.Tab.0.left" timestamp="1594146528848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594146528848" />
+    <state width="1619" height="272" key="GridCell.Tab.0.right" timestamp="1594146528849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594146528849" />
+    <state width="1619" height="272" key="GridCell.Tab.1.bottom" timestamp="1594146528849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="272" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594146528849" />
+    <state width="1619" height="272" key="GridCell.Tab.1.center" timestamp="1594146528849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="272" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594146528849" />
+    <state width="1619" height="272" key="GridCell.Tab.1.left" timestamp="1594146528849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="272" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594146528849" />
+    <state width="1619" height="272" key="GridCell.Tab.1.right" timestamp="1594146528849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="272" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594146528849" />
+    <state width="1619" height="248" key="GridCell.Tab.2.bottom" timestamp="1594134177282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="248" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594134177282" />
+    <state width="1619" height="248" key="GridCell.Tab.2.center" timestamp="1594134177282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="248" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594134177282" />
+    <state width="1619" height="248" key="GridCell.Tab.2.left" timestamp="1594134177282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="248" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594134177282" />
+    <state width="1619" height="248" key="GridCell.Tab.2.right" timestamp="1594134177282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="248" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594134177282" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1594049458807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594049458807" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1594145006435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594145006435" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1594123444655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594123444655" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594143329475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594143329475" />
+  </component>
+</project>

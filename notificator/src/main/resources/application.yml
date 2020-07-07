@@ -1,0 +1,23 @@
+amqp:
+  queue: messages
+  exchange: cabas
+  concurrentConsumers: 10
+server:
+  port: 8088
+spring:
+  mdatasource:
+    password: 'cabaspass'
+    jdbc-url: jdbc:mysql://localhost:3306/cabas?createDatabaseIfNotExist=true
+    username: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  h2datasource:
+    driver-class-name: org.h2.Driver
+    jdbc-url: jdbc:h2:mem:testdb
+    username: sa
+    password: as
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: create

@@ -1,0 +1,17 @@
+[
+  {
+    "_class": "com.springexercise.notificator.model.Message",
+    "severity": "LOW",
+    "content": "Hello %s, Some message with low severity. Thank you."
+  },
+  {
+    "_class": "com.springexercise.notificator.model.Message",
+    "severity": "MEDIUM",
+    "content": "Hello %s, New message with medium severity. Thank you."
+  },
+  {
+    "_class": "com.springexercise.notificator.model.Message",
+    "severity": "HIGH",
+    "content": "Hello %s, Bad message with high severity. Thank you."
+  }
+]

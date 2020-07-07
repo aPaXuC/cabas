@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/alerter/alerter.iml" filepath="$PROJECT_DIR$/alerter/alerter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cabas.iml" filepath="$PROJECT_DIR$/.idea/cabas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificator/notificator.iml" filepath="$PROJECT_DIR$/notificator/notificator.iml" />
+    </modules>
+  </component>
+</project>

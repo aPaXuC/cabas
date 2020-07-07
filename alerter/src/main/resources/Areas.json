@@ -1,0 +1,111 @@
+[
+  {
+    "_class": "com.springexercise.alerter.model.Area",
+    "areaName": "Center",
+    "citiesInArea": [
+      "Elad",
+      "Givat_Shmuel",
+      "Hod_HaSharon",
+      "Kafr_Qasim",
+      "Kfar_Saba",
+      "Kfar_Yona",
+      "Lod",
+      "Modiin_Maccabim_Reut",
+      "Ness_Ziona",
+      "Netanya",
+      "Petah_Tikva",
+      "Qalansawe",
+      "Raanana",
+      "Ramla",
+      "Rehovot",
+      "Rishon_LeZion",
+      "Rosh_HaAyin",
+      "Tayibe",
+      "Tira",
+      "Yavne",
+      "Yehud_Monosson"
+    ]
+  },
+  {
+    "_class": "com.springexercise.alerter.model.Area",
+    "areaName": "Haifa",
+    "citiesInArea": [
+      "Baqa_al_Gharbiyye",
+      "Hadera",
+      "Haifa",
+      "Kiryat_Ata",
+      "Kiryat_Bialik",
+      "Kiryat_Motzkin",
+      "Kiryat_Yam",
+      "Nesher",
+      "Or_Akiva",
+      "Tirat_Carmel",
+      "Umm_al_Fahm"
+    ]
+  },
+  {
+    "_class": "com.springexercise.alerter.model.Area",
+    "areaName": "Jerusalem",
+    "citiesInArea": [
+      "Beit_Shemesh",
+      "Jerusalem"
+    ]
+  },
+  {
+    "_class": "com.springexercise.alerter.model.Area",
+    "areaName": "North",
+    "citiesInArea": [
+      "Acre",
+      "Afula",
+      "Arraba",
+      "Beit_Shean",
+      "Karmiel",
+      "Kiryat_Shmona",
+      "Maalot_Tarshiha",
+      "Migdal_HaEmek",
+      "Nahariya",
+      "Nazareth",
+      "Nof_HaGalil",
+      "Safed",
+      "Sakhnin",
+      "Shefa_Amr",
+      "Tamra",
+      "Tiberias",
+      "Yokneam_Illit"
+    ]
+  },
+  {
+    "_class": "com.springexercise.alerter.model.Area",
+    "areaName": "South",
+    "citiesInArea": [
+      "Arad",
+      "Ashdod",
+      "Ashkelon",
+      "Beersheba",
+      "Dimona",
+      "Eilat",
+      "Kiryat_Gat",
+      "Kiryat_Malakhi",
+      "Netivot",
+      "Ofakim",
+      "Rahat",
+      "Sderot"
+    ]
+  },
+  {
+    "_class": "com.springexercise.alerter.model.Area",
+    "areaName": "Tel Aviv",
+    "citiesInArea": [
+      "Bat_Yam",
+      "Bnei_Brak",
+      "Givatayim",
+      "Herzliya",
+      "Holon",
+      "Kiryat_Ono",
+      "Or_Yehuda",
+      "Ramat_Gan",
+      "Ramat_HaSharon",
+      "Tel_Aviv_Yafo"
+    ]
+  }
+]
